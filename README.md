@@ -1,8 +1,9 @@
 # -datasciencesoursera
 ---
 title: "rmarkdown"
-author: "CP-Tadeo"
-date: "7/13/2020"
+author: "pacifierrsk"
+
+date: "10/14/2022"
 output: pdf_document
 ---
 
